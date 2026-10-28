@@ -88,13 +88,3 @@ python -m unittest discover -s tests -v
 The evaluator extracts explicit `Final answer:`/`Answer:` text or the last LaTeX `\boxed{...}` expression. It normalizes common LaTeX wrappers and compares integers, decimals, simple fractions, and tuples. Response length counts whitespace-separated words. Self-Refine length includes the initial solution, critique, and final solution.
 
 Exact-match evaluation can undercount mathematically equivalent symbolic expressions. For rigorous comparisons, manually audit borderline cases or replace the scorer with a symbolic equivalence checker.
-
-## Reproducibility notes
-
-- Default seed: `42`
-- Default decoding: greedy
-- Default maximum generation length: 4,000 tokens
-- Dataset splits: GSM8K `test`, MATH-500 `test`, AIME 2024 `train`
-- Result JSON records raw output, extracted prediction, correctness, and response length
-
-The structured summary reflects the recorded experiment log. Some checked-in detailed JSON files are partial or were rescored separately, so recomputing metrics from only the currently available JSON files may not reproduce every summary cell.
