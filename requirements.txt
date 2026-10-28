@@ -1,0 +1,6 @@
+accelerate>=0.30
+datasets>=2.19
+matplotlib>=3.8
+pandas>=2.2
+torch>=2.2
+transformers>=4.41

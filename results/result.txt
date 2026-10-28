@@ -1,0 +1,60 @@
+1
+Accuracy: 0.7733
+Average response length: 200.12 words
+2
+Accuracy: 0.7695
+Average response length: 203.41 words
+3
+Accuracy: 0.8012
+Average response length: 250.59 words
+4
+Accuracy: 0.7040
+Average response length: 578.50 words
+5
+Accuracy: 0.7430
+Average response length: 752.21 words
+6
+Accuracy: 0.7961
+Average response length: 980.20 words
+
+
+
+7
+Accuracy: 0.5560
+Average response length: 326.82 words
+8
+Accuracy: 0.5780
+Average response length: 320.68 words
+9
+Accuracy: 0.6020
+Average response length: 400.32 words
+10
+Accuracy: 0.6860
+Average response length: 649.48 words
+11
+Accuracy: 0.7040
+Average response length: 872.32 words
+12
+Accuracy: 0.7360
+Average response length: 1141.92 words
+
+
+
+13
+Accuracy: 0.0666
+Average response length: 502.03 words
+14
+Accuracy: 0.1000
+Average response length: 565.90 words
+15
+Accuracy: 0.1000
+Average response length: 622.73 words
+16
+Accuracy: 0.0333
+Average response length: 705.23 words
+17
+Accuracy: 0.1000
+Average response length: 913.30 words
+18
+Accuracy: 0.1332
+Average response length: 2319.70 words
